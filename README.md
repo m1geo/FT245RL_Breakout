@@ -10,6 +10,8 @@ Basic breakout board for FTDI’s popular USB to FIFO IC.
 Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
+* **/Assembly** - Gerber ZIP file for PCB Manufacture & Assembly/Schematic PDF.
+* **/Assembly/Gerber** - Individual Gerber Files
 
 
 License Information
